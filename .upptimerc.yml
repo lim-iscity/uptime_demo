@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: nobleflash
     url: https://www.nobleflash.com
+  - name: vmore
+    url: http://app1-vmore.securelayers.cloud/atranslation.php
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
