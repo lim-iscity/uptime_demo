@@ -9,6 +9,8 @@ sites:
     url: https://www.nobleflash.com
   - name: vmore
     url: http://app1-vmore.securelayers.cloud/atranslation.php
+    expectedStatusCodes:
+    - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
