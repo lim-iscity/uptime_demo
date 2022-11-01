@@ -5,10 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: nobleflash
-    url: https://www.nobleflash.com
   - name: vmore
-    url: http://app1-vmore.securelayers.cloud/atranslation.php
+    url: http://app1-vmore.securelayers.cloud/translation.php
     expectedStatusCodes:
     - 200
 
