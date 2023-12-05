@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
-    "timeDay": 89,
-    "timeWeek": 72,
-    "timeMonth": 98,
+    "timeDay": 123,
+    "timeWeek": 81,
+    "timeMonth": 99,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2022-12-05": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vmore",
@@ -30,11 +28,11 @@
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 620,
-    "timeDay": 386,
-    "timeWeek": 780,
-    "timeMonth": 738,
-    "timeYear": 638,
+    "time": 621,
+    "timeDay": 1124,
+    "timeWeek": 768,
+    "timeMonth": 759,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2023-11-29": 52
     }
