@@ -11,8 +11,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 113,
-    "timeDay": 211,
-    "timeWeek": 168,
+    "timeDay": 217,
+    "timeWeek": 169,
     "timeMonth": 130,
     "timeYear": 114,
     "dailyMinutesDown": {
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app1-vmore.securelayers.cloud.ico",
     "slug": "vmore",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 9913,
-    "timeWeek": 2730,
-    "timeMonth": 927,
-    "timeYear": 571,
+    "uptime": "99.46%",
+    "uptimeDay": "63.21%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.90%",
+    "time": 618,
+    "timeDay": 19536,
+    "timeWeek": 5122,
+    "timeMonth": 1547,
+    "timeYear": 622,
     "dailyMinutesDown": {
-      "2025-07-01": 0
+      "2025-07-02": 123,
+      "2025-07-01": 407
     }
   }
 ]
