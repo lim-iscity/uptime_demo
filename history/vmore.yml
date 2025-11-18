@@ -1,7 +1,7 @@
 url: http://app1-vmore.securelayers.cloud/translation.php
-status: down
-code: 500
-responseTime: 50
-lastUpdated: 2025-11-18T11:55:56.425Z
+status: up
+code: 200
+responseTime: 361
+lastUpdated: 2025-11-18T12:15:32.195Z
 startTime: 2022-11-01T08:28:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
