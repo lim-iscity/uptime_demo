@@ -25,17 +25,17 @@
     "url": "http://app1-vmore.securelayers.cloud/translation.php",
     "icon": "https://icons.duckduckgo.com/ip3/app1-vmore.securelayers.cloud.ico",
     "slug": "vmore",
-    "status": "up",
+    "status": "down",
     "uptime": "97.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.77%",
     "uptimeYear": "98.73%",
-    "time": 1757,
-    "timeDay": 270,
-    "timeWeek": 295,
-    "timeMonth": 2665,
-    "timeYear": 701,
+    "time": 1820,
+    "timeDay": 16239,
+    "timeWeek": 4284,
+    "timeMonth": 3534,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2025-11-14": 21,
       "2025-11-18": 113,
@@ -46,7 +46,8 @@
       "2026-07-23": 525,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
-      "2026-07-20": 640
+      "2026-07-20": 640,
+      "2026-08-17": 0
     }
   }
 ]
